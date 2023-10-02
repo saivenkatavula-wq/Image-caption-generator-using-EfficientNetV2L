@@ -1,2 +1,13 @@
 # Image-caption-generator-using-EfficientNetV2L
-In this project we used enocder-decoder model,where encoder side we use CNN which is EfficientNetV2L and decoder side we use LSTM(long short term memory) and for best results we use attention mechanism for better caption generation.
+A neural network to generate captions for an image using CNN and RNN with BEAM Search.
+
+Table of Contents
+Requirements
+Training parameters and results
+Generated Captions on Test Images
+Procedure to Train Model
+Procedure to Test on new images
+Configurations (config.py)
+Frequently encountered problems
+TODO
+References
