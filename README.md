@@ -1,12 +1,4 @@
-To create a README file for your GitHub repository based on the `Image_caption_generator (1).ipynb` notebook, I'll need to examine the contents of the notebook. I'll read the file and then generate a README for you. 
-
-Let's start by loading the notebook and analyzing its contents.
-
-The notebook contains 68 cells, including both markdown and code cells. It uses Python 3, is set up for GPU acceleration (specifically using a T4 GPU), and is designed to run on Google Colab. This information gives us a good starting point for the README.
-
-Now, I'll extract more detailed information from the notebook to create a comprehensive README file.
-
-Based on the extracted details, here's a draft of a README file for your GitHub repository. This README will include an overview, setup instructions, usage examples, and other relevant sections to help users understand and utilize your image caption generator.
+This README will include an overview, setup instructions, usage examples, and other relevant sections to help users understand and utilize your image caption generator.
 
 ```markdown
 # Image Caption Generator
